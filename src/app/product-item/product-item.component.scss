@@ -1,0 +1,27 @@
+@import "~src/styles";
+
+.card-size {
+  width: 202px;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 100px;
+}
+
+.card-footer {
+  background-color: $app-dark;
+}
+
+.in-cart {
+  color: #ffffff;
+  text-align: center;
+}
+
+.card-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+  text-align: center;
+}

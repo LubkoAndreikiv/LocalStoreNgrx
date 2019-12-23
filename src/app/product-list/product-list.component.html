@@ -1,0 +1,32 @@
+
+<app-header></app-header>
+<app-filter></app-filter>
+<app-paginator *ngIf="products.length"
+                [currentPage]="currentPage"
+                [totalPageCount]="getTotalPageCount()"
+                [showPagesCount]="showPagesCount"
+                (pageClicked)="onPageClicked($event)">
+</app-paginator>
+<div class="container mt-4">
+
+  <div class="row">
+    <div class="col-lg-11">
+
+      <div *ngIf="products.length == 0" class="row">
+        <h3 >There are no products...ops</h3>
+        <img src="assets/empty_result.svg" >
+      </div>
+
+      <div *ngIf="products.length != 0" class="row">
+        <app-product-item *ngFor="let product of products"
+                                  [product]="product.info"
+                                  [isInCart]="product.isInCart"
+                                  (productSelected)="onProductSelected($event)"
+                                  class="col-lg-4 col-md-6 mb-4">
+        </app-product-item>
+      </div>
+
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

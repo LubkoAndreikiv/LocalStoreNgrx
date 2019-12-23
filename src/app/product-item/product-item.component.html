@@ -1,0 +1,16 @@
+
+<div class="card h-100 card-size">
+  <img class="card-img-top"
+       src="{{product.coverUrl}}" alt="">
+  <div class="card-body">
+    <h5 class="card-title">
+      <a routerLink="{{product.id}}"><p class="card-name">{{product.name}}</p></a>
+    </h5>
+    <h5>{{product.price | currency}}  </h5>
+    <h5>{{product.customerRating}} stars</h5>
+  </div>
+  <div class="card-footer">
+    <h5 class="in-cart" *ngIf="isInCart">In Cart</h5>
+    <button *ngIf="!isInCart" (click)="select()" type="button" class="btn btn-success btn-block">Add to cart</button>
+  </div>
+</div>

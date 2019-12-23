@@ -1,0 +1,35 @@
+<form [formGroup]="formGroup">
+  <div class="container">
+    <div class="row pt-5">
+      <div class="col-lg-4 col-md-12 pt-4">
+        <div class="form-group">
+          <select class="form-control" formControlName="filter" name="" id="">
+            <option value="" selected>All types</option>
+            <option value="Appliances">Appliances</option>
+            <option value="TV">TVs</option>
+            <option value="Phones">Phones</option>
+            <option value="Video Games">Video Games</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12  pt-4">
+        <div class="form-group" formGroupName="priceRange">
+          <label class="container-checkbox"> $1 - $5
+            <input type="checkbox"  id="price1" name="priceRange" formControlName="oneFive">
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="container-checkbox"> <span>&#62;</span> $5
+            <input type="checkbox"  id="price2" name="priceRange" formControlName="moreFive">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12  pt-4">
+        <div class="form-group">
+          <input type="text" class="form-control green-outline-focus" placeholder="Search..." #search formControlName="search">
+        </div>
+      </div>
+    </div>
+  </div>
+</form>

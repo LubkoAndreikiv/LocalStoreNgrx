@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "customerRating": 1,
+      "name": "Test Product One",
+      "coverUrl": "../../assets/product_1.jpeg",
+      "price": " 3.15 ",
+      "id": "102",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 3,
+      "name": "Test Product TV",
+      "coverUrl": "../../assets/product_2.jpeg",
+      "price": " 3.15 ",
+      "id": "159",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 4,
+      "name": "Test Product TV 2",
+      "coverUrl": "../../assets/product_3.jpeg",
+      "price": " 2.15 ",
+      "id": "105",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 2,
+      "name": "Test Product Headphones",
+      "coverUrl": "../../assets/product_4.jpeg",
+      "price": " 1.15 ",
+      "id": "12",
+      "type": "Appliances",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 3,
+      "name": "Test Product Plazma",
+      "coverUrl": "../../assets/product_1.jpeg",
+      "price": " 0.15 ",
+      "id": "15",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 2,
+      "name": "Test Product Samples",
+      "coverUrl": "../../assets/product_5.jpeg",
+      "price": " 5.15 ",
+      "id": "10",
+      "type": "Appliances",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 5,
+      "name": "Test Product TV",
+      "coverUrl": "../../assets/product_3.jpeg",
+      "price": " 5.15 ",
+      "id": "102",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 6,
+      "name": "Test Phone Android",
+      "coverUrl": "../../assets/product_3.jpeg",
+      "price": " 5.15 ",
+      "id": "159",
+      "type": "Phones",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 3,
+      "name": "XIOMI",
+      "coverUrl": "../../assets/product_5.jpeg",
+      "price": " 5.15 ",
+      "id": "105",
+      "type": "Phones",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 2,
+      "name": "World of tanks",
+      "coverUrl": "../../assets/product_4.jpeg",
+      "price": " 5.15 ",
+      "id": "12",
+      "type": "Video Games",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 5,
+      "name": "New TV",
+      "coverUrl": "../../assets/product_3.jpeg",
+      "price": " 5.15 ",
+      "id": "15",
+      "type": "TV",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    },
+    {
+      "customerRating": 5,
+      "name": "The simpsons",
+      "coverUrl": "../../assets/product_1.jpeg",
+      "price": " 5.15 ",
+      "id": "10",
+      "type": "Video Games",
+      "description": "Nostrud nisi non id adipisicing nostrud eu enim et ullamco ea laboris. Nulla nisi enim sit non irure consequat voluptate. Cupidatat eiusmod laboris officia nulla sunt aliqua exercitation. Eu duis velit aliqua sint nostrud proident incididunt sit anim non commodo dolor. Ullamco eiusmod veniam do sit excepteur voluptate. Labore do commodo ipsum labore commodo dolore ea proident qui elit veniam incididunt officia.",
+      "reviews": [
+        {
+          "customerName": "John Doe",
+          "text": "Dolor ex mollit id quis adipisicing. Labore id qui est occaecat minim consequat dolore aliquip adipisicing anim in. Magna est deserunt sunt esse dolor eiusmod. Lorem ad mollit cupidatat est aliquip ea culpa amet. Aute exercitation officia adipisicing et incididunt eu mollit et velit cupidatat adipisicing magna laboris sunt."
+        },
+        {
+          "customerName": "John Doe 2",
+          "text": "Good!"
+        }
+      ]
+    }
+  ]
+}

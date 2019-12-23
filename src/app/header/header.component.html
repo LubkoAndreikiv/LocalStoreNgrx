@@ -1,0 +1,16 @@
+<nav class="navbar navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <span class="navbar-brand">Local Electronics</span>
+    <form class="form-inline">
+      <button [ngClass]="isCartEmpty() ? 'btn btn-outline-success' : ' btn btn-success'"
+              [disabled]="isCartEmpty()"
+              (click)="showCart(content)"
+              type="button"><i class="fa cart ico">&#xf07a;</i> {{products.length}}</button>
+    </form>
+
+  </div>
+</nav>
+
+<ng-template #content>
+  <app-cart></app-cart>
+</ng-template>

@@ -1,0 +1,29 @@
+<div class="modal-header">
+  <h5 class="modal-title" id="exampleModalLongTitle">Basket</h5>
+</div>
+<div class="modal-body">
+
+  <div *ngFor="let product of products" class="card mb-3 product-card">
+    <div class="row no-gutters">
+      <div class="col-md-4">
+        <img src="{{product.coverUrl}}" class="card-img" alt="...">
+      </div>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">{{product.name}}</h5>
+          <p class="card-text">${{product.customerRating}}</p>
+          <p class="card-text">${{product.price}}</p>
+        </div>
+      </div>
+      <div class="col-md-2 pr-2 pt-1">
+        <button type="button" class="close" aria-label="Close" (click)="removeProductFromCart(product.id)">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+</div>
+<div class="modal-footer justify-content-center">
+  <button type="button" class="btn btn-danger" (click)="navigateToList()">Continue shopping</button>
+</div>
